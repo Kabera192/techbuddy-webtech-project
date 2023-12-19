@@ -20,7 +20,7 @@ Follow these steps to get the project up and running on your local machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/TechBuddy.git
+git clone https://github.com/Kabera192/techbuddy-webtech-project.git
 cd TechBuddy
 ```
 
